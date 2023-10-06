@@ -7,7 +7,7 @@ public class ccc {
 
 	}
 	public void mmm() {
-		
+		System.out.println("hii");
 	}
 
 }
