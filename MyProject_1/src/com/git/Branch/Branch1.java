@@ -6,5 +6,8 @@ public class Branch1 {
 		System.out.println();
 
 	}
+	public void BranchM() {
+		System.out.println("Branch1.BranchM()...Is upadted By Dev2");
+	}
 
 }
