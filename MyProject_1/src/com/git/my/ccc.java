@@ -6,5 +6,8 @@ public class ccc {
 		// TODO Auto-generated method stub
 
 	}
+	public void mmm() {
+		
+	}
 
 }
